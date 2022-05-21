@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ashish Narayan Shinde</h1>
 <h3 align="center">A Passionate Full Stack Developer from Dehu, Pune.</h3>
 
+   <img src="https://user-images.githubusercontent.com/85614208/169638098-60908532-e069-4a0d-ad3b-25b612ea2d94.gif" width="1200px" heigth="100px">
+
 
 <div align="center">
+   
    <img src="https://komarev.com/ghpvc/?username=ashishshinde765&label=Profile%20views&color=0e75b6&style=flat" alt="ashishshinde765" /> 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://github.com/ashishshinde765"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Github&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://www.linkedin.com/in/ashish-shinde-6035a1211"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Linkedin&color=7289DA" alt="Join Community Badge"/></a>
+   
+   
 <hr>
    </div>
-   
-   
-  ![code](https://user-images.githubusercontent.com/85614208/169638098-60908532-e069-4a0d-ad3b-25b612ea2d94.gif)
+  
+
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishshinde765](https://github.com/ashishshinde765)
 
