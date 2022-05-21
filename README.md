@@ -12,7 +12,8 @@
 <hr>
    </div>
    
-   ![Profile (1)](https://user-images.githubusercontent.com/85614208/169637993-36d72a20-c333-4e97-8dff-8e4e96f1311c.jpg)
+   
+  ![code](https://user-images.githubusercontent.com/85614208/169638098-60908532-e069-4a0d-ad3b-25b612ea2d94.gif)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishshinde765](https://github.com/ashishshinde765)
 
