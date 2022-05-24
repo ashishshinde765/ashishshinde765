@@ -24,8 +24,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ashishshinde765](https://github.com/ashishshinde765)
 
 - 📫 How to reach me **ashishshinde765@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lojYstIut5c2zcSZynFzaJq3655QM-hz/view?usp=sharing](https://drive.google.com/file/d/1lojYstIut5c2zcSZynFzaJq3655QM-hz/view?usp=sharing)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
