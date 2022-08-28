@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Narayan Shinde</h1>
 <h3 align="center">A Passionate Full Stack Developer from Dehu, Pune.</h3>
 
-   <img src="https://user-images.githubusercontent.com/85614208/169638098-60908532-e069-4a0d-ad3b-25b612ea2d94.gif" width="1200px" heigth="100px">
+   <img src="https://user-images.githubusercontent.com/85614208/169638098-60908532-e069-4a0d-ad3b-25b612ea2d94.gif" width="100%" heigth="100px">
 
 
 <div align="center">
